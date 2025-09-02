@@ -11,7 +11,7 @@
 | **유혜원** | **안봉근** | **이경민** |
 | :------: |  :------: | :------: |
 | <img src="https://github.com/user-attachments/assets/c2cdb8d8-5e72-4972-b3a9-acc0c7bc8fdb" height=150 width=150> | <img src="https://github.com/user-attachments/assets/f0fcdeff-8492-421e-9c8a-1d65556b37ad" height=150 width=150>  | <img src="https://github.com/user-attachments/assets/01fce104-8055-4dfd-b41a-3e971e93ac66" height=150 width=150>  |
-| [@lyuhw1023](https://github.com/lyuhw1023) |  [@DevDory](https://github.com/DevDory) | [@m2kyungmin](https://github.com/m2kyungmin) |
+| [@lyuhw1023](https://github.com/lyuhw1023) |  [@DevDory](https://github.com/krdevdory) | [@m2kyungmin](https://github.com/m2kyungmin) |
 
 </div>
 
